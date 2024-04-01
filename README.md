@@ -8,18 +8,9 @@ My Name Gyumin Hwang
 Date: March 27, 2024
 Weather: Cleanwq
 
-<<<<<<< HEAD
 Fetch & Merge  
 A  
 B  
 C  
 D
 F
-=======
-Fetch & Merge
-A
-B
-C
-D
-E  
->>>>>>> feature
