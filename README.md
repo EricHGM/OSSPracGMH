@@ -6,4 +6,15 @@
 My Class OSSPrac  
 My Name Gyumin Hwang  
 Date: March 27, 2024
+<<<<<<< HEAD
 Weather: Clean!
+=======
+Weather: Cleanwq
+
+Fetch & Merge  
+A  
+B  
+C  
+D  
+F
+>>>>>>> 3bd35c40c081f7ab698fb26f237ab576439a92c6
